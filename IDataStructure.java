@@ -1,3 +1,3 @@
-public class IDataStructure {
+public interface IDataStructure<T>{
     
 }
