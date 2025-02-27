@@ -6,8 +6,4 @@ public interface IList<T> {
     String getTypeList(String data);
 
     void add(T item);
-
-    T remove ();
-
-    boolean isEmpty();
 }
